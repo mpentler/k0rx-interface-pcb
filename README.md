@@ -1,5 +1,6 @@
 # k0rx-interface-pcb
 A PCB implementation of an audio data mode interface designed by K0RX, David Andersen
+![Screenshot](https://i.imgur.com/5BLhEcb.jpg "Photo of PCB")
 
 Original circuit here: https://k0rx.com/blog/2017/11/baofeng.html
 
