@@ -14,3 +14,17 @@ An improvement you may want to add is a proper connector for the radio cable rat
 
 This interface works great for me for SSTV work and for general audio recording from the radio. The total cost of all of the parts (including PCB fabbing from
 JLCPCB) is around £15, the most expansive parts being the cables.
+
+# Parts List
+
+R1 - High value, typically 62k-100k Ohm
+R2 - 2.2k Ohm
+R3 - 330 Ohm
+C1 - 0.1uF ceramic capacitor
+T1 - 1:1 600 Ohm transformer
+U1 - PC817 Optocoupler
+SW1 - SPDT slide switch
+J1 - TRRS jack socket
+J2 - Pin header or bare pads
+J3 - Pin header or bare pads
+J4 - Pin header or bare pads
