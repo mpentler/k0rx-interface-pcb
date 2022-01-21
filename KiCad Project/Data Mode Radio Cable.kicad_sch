@@ -852,7 +852,7 @@
     (uuid 00000000-0000-0000-0000-00005ffcb4e8)
     (property "Reference" "T1" (id 0) (at 107.95 47.4726 0))
     (property "Value" "600R" (id 1) (at 107.95 49.784 0))
-    (property "Footprint" "Custom_Footprints:1-1_Audio_Transformer_600_ohm" (id 2) (at 107.95 57.15 0)
+    (property "Footprint" "Library:1-1_Audio_Transformer_600_ohm" (id 2) (at 107.95 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 107.95 57.15 0)
@@ -920,7 +920,7 @@
     (property "Value" "TRRS" (id 1) (at 45.4152 44.5008 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Keebio-Parts:TRRS-PJ-320A" (id 2) (at 40.64 44.45 0)
+    (property "Footprint" "Library:TRRS-PJ-320A" (id 2) (at 40.64 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 40.64 44.45 0)
@@ -1057,7 +1057,7 @@
     (uuid 00000000-0000-0000-0000-000060350a0e)
     (property "Reference" "SW1" (id 0) (at 124.46 73.66 0))
     (property "Value" "PTT_LOCK" (id 1) (at 124.46 76.2 0))
-    (property "Footprint" "Custom_Footprints:SPDT_Right_Angled_Switch" (id 2) (at 124.46 81.28 0)
+    (property "Footprint" "Library:SPDT_Right_Angled_Switch" (id 2) (at 124.46 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 124.46 81.28 0)
@@ -1107,7 +1107,7 @@
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-00005ffd1205"
-      (reference "J1") (unit 1) (value "TRRS") (footprint "Keebio-Parts:TRRS-PJ-320A")
+      (reference "J1") (unit 1) (value "TRRS") (footprint "Library:TRRS-PJ-320A")
     )
     (path "/00000000-0000-0000-0000-00005ffd8cb7"
       (reference "J2") (unit 1) (value "2.5mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
@@ -1128,10 +1128,10 @@
       (reference "R3") (unit 1) (value "330") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000060350a0e"
-      (reference "SW1") (unit 1) (value "PTT_LOCK") (footprint "Custom_Footprints:SPDT_Right_Angled_Switch")
+      (reference "SW1") (unit 1) (value "PTT_LOCK") (footprint "Library:SPDT_Right_Angled_Switch")
     )
     (path "/00000000-0000-0000-0000-00005ffcb4e8"
-      (reference "T1") (unit 1) (value "600R") (footprint "Custom_Footprints:1-1_Audio_Transformer_600_ohm")
+      (reference "T1") (unit 1) (value "600R") (footprint "Library:1-1_Audio_Transformer_600_ohm")
     )
     (path "/00000000-0000-0000-0000-00005ffcdae6"
       (reference "U1") (unit 1) (value "PC817") (footprint "Package_DIP:DIP-4_W7.62mm")
