@@ -13,7 +13,7 @@ I had to change some resistors in my implementation as David mentions, and I tot
 An improvement you may want to add is a proper connector for the radio cable rather than cutting the end off a cable and soldering it directly. Especially if mounting it in a box.
 
 This interface works great for me for SSTV & APRS work and for general audio recording from the radio. The total cost of all of the parts (including PCB fabbing from
-JLCPCB) is around £15, the most expansive parts being the cables.
+JLCPCB) is around £15, the most expensive parts being the cables.
 
 # Parts List
 
