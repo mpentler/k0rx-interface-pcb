@@ -4,7 +4,7 @@ A PCB implementation of an audio data mode interface designed by K0RX, David And
 
 Original circuit here: https://k0rx.com/blog/2017/11/baofeng.html
 
-I made this up into a small 4x4cm PCB to replace a horrible stripboard prototype. I'm releasing the Gerber files and the KiCad project in case anyone wants to have a play. The project has now been upgraded to be compatible with KiCad V6.
+I made this up into a small 4x4cm PCB to replace a horrible stripboard prototype. I'm releasing the Gerber files and the KiCad project in case anyone wants to have a play. The project has now been upgraded to be compatible with KiCad V6, but some things may need reconnecting. Sorry. Same for V7.
 
 There are more complex interfaces available to make or buy but I loved the simplicity of David's design. A small enclosure could be made for the box, and I've included an example of this in FreeCAD format also.
 
