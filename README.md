@@ -8,7 +8,7 @@ I made this up into a small 4x4cm PCB to replace a horrible stripboard prototype
 
 There are more complex interfaces available to make or buy but I loved the simplicity of David's design. A small enclosure could be made for the box, and I've included an example of this in FreeCAD format also.
 
-I had to change some resistors in my implementation as David mentions, and I totally missed out the potentiometer, opting for a single 2k2 resistor. I also added a hard switch for toggling Tx/Rx as well as the optocoupler. I am only using a single audio channel as David does, so you can either leave the other one hanging or send to ground I guess. The 82k resistor may need some adjustment, see what level works for you (breadboard it and test, perhaps).
+I had to change some resistors in my implementation as David mentions, and I totally missed out the potentiometer, opting for a single 2k2 resistor (edit 2023: my output is way hot - clearly needs the resistor value increasing). I also added a hard switch for toggling Tx/Rx as well as the optocoupler. I am only using a single audio channel as David does, so you can either leave the other one hanging or send to ground I guess. The 82k resistor may need some adjustment, see what level works for you (breadboard it and test, perhaps).
 
 An improvement you may want to add is a proper connector for the radio cable rather than cutting the end off a cable and soldering it directly. Especially if mounting it in a box.
 
