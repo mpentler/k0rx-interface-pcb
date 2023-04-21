@@ -18,7 +18,7 @@ JLCPCB) is around £15, the most expensive parts being the cables.
 # Parts List
 
 * R1 - High value, typically 62k-100k Ohm
-* R2 - 2.2k Ohm
+* R2 - 2.2k Ohm (this may need to be higher also, again, experimentation is useful)
 * R3 - 330 Ohm
 * C1 - 0.1uF ceramic capacitor
 * T1 - 1:1 600 Ohm transformer
